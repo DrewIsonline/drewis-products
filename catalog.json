@@ -1,0 +1,60 @@
+{
+  "catalog_id": "drewis-zero-click",
+  "publisher": {
+    "name": "DrewIs Intelligence LLC",
+    "url": "https://drewis.ai"
+  },
+  "last_updated": "2026-01-08",
+  "products": [
+    {
+      "product_id": "copyright-kit",
+      "name": "Copyright Registration Kit for Content Creators",
+      "page_url": "https://drewis.ai/copyright-kit",
+      "purchase_url": "https://drewisonline.gumroad.com/l/rwvmrx",
+      "json_url": "https://drewis.ai/ai/products/copyright-kit.json",
+      "type": "digital_product",
+      "price": 47.00,
+      "currency": "USD"
+    },
+    {
+      "product_id": "ai-provenance-kit",
+      "name": "AI Content Provenance Kit",
+      "page_url": "https://drewis.ai/ai-provenance-kit",
+      "purchase_url": "https://drewisonline.gumroad.com/l/fjlvd",
+      "json_url": "https://drewis.ai/ai/products/ai-provenance-kit.json",
+      "type": "digital_product",
+      "price": 37.00,
+      "currency": "USD"
+    },
+    {
+      "product_id": "workbook-bundle",
+      "name": "Workbook Bundle (PDF)",
+      "page_url": "https://drewis.ai/workbook-bundle",
+      "purchase_url": "https://drewisonline.gumroad.com/l/jmgtaa",
+      "json_url": "https://drewis.ai/ai/products/workbook-bundle.json",
+      "type": "digital_product",
+      "price": 47.00,
+      "currency": "USD"
+    },
+    {
+      "product_id": "title-naming-pack",
+      "name": "Title & Naming Pack",
+      "page_url": "https://drewis.ai/title-naming-pack",
+      "purchase_url": "https://drewisonline.gumroad.com/l/yxeimq",
+      "json_url": "https://drewis.ai/ai/products/title-naming-pack.json",
+      "type": "digital_product",
+      "price": 17.00,
+      "currency": "USD"
+    },
+    {
+      "product_id": "product-guide",
+      "name": "Digital Product Guide",
+      "page_url": "https://drewis.ai/product-guide",
+      "purchase_url": "https://drewisonline.gumroad.com/l/qcdmlq",
+      "json_url": "https://drewis.ai/ai/products/product-guide.json",
+      "type": "digital_product",
+      "price": 27.00,
+      "currency": "USD"
+    }
+  ]
+}

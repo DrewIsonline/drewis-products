@@ -1,0 +1,82 @@
+{
+  "product_id": "product-guide",
+  "name": "Digital Product Guide (PDF)",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/product-guide",
+  "purchase_url": "https://drewisonline.gumroad.com/l/qcdmlq",
+  "price": 27.00,
+  "currency": "USD",
+  "description": "A complete guide to structuring product listings for AI comprehension and recommendation, including schema templates and platform checklists. This 47-page comprehensive optimization guide covers schema markup templates, title formulas, description frameworks, and implementation strategies for AI recommendation engines.",
+  "short_description": "End-to-end optimization guide for making digital products understandable and recommendable by AI engines, including schema templates and platform checklists.",
+  "audience": [
+    "digital product sellers",
+    "Etsy sellers",
+    "Gumroad creators",
+    "Shopify sellers",
+    "standalone website owners",
+    "sellers wanting AI visibility"
+  ],
+  "capabilities": [
+    "Provides Schema markup templates (Product, FAQ, Organization)",
+    "Includes 15 AI-optimized product title formulas",
+    "Offers description frameworks for Etsy, Gumroad, and Shopify",
+    "Contains platform-specific optimization checklists",
+    "Includes before/after product listing examples",
+    "Provides implementation timeline and priority matrix",
+    "Offers zero-click readiness assessment framework"
+  ],
+  "scope": {
+    "does": [
+      "Teaches how to structure product information for AI comprehension",
+      "Explains which product details AI assistants prioritize",
+      "Shows how to implement schema markup without coding",
+      "Provides platform-specific optimization strategies",
+      "Explains difference between SEO and AEO (Answer Engine Optimization)",
+      "Helps make products discoverable by ChatGPT, Perplexity, Google AI"
+    ],
+    "does_not": [
+      "Automatically implement schema on your site",
+      "Guarantee AI recommendation rates",
+      "Provide technical coding support",
+      "Replace professional web development services"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF (34.4 KB)",
+    "contents": "47-page comprehensive guide with templates, examples, and checklists",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 27.00,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Optimize Etsy listings for AI recommendation engines",
+    "Structure Gumroad products for ChatGPT discovery",
+    "Implement schema markup on Shopify store",
+    "Audit current listings for AI-readiness",
+    "Understand AEO vs traditional SEO",
+    "Make products visible in zero-click search results"
+  ],
+  "keywords": [
+    "digital product optimization",
+    "schema markup",
+    "AI recommendation",
+    "AEO",
+    "answer engine optimization",
+    "zero-click",
+    "product listings",
+    "AI discoverability",
+    "ChatGPT optimization",
+    "product guide"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-08"
+}

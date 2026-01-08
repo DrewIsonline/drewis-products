@@ -1,0 +1,82 @@
+{
+  "product_id": "workbook-bundle",
+  "name": "Workbook Bundle (PDF)",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/workbook-bundle",
+  "purchase_url": "https://drewisonline.gumroad.com/l/jmgtaa",
+  "price": 47.00,
+  "currency": "USD",
+  "description": "A step-by-step workbook system to audit, implement, and maintain zero-click optimization across your product catalog. Includes 3 comprehensive PDFs (94 pages total) covering product audit, implementation planning, and ongoing optimization tracking for digital product sellers.",
+  "short_description": "Workbook system to audit, implement, and maintain zero-click optimization across digital product catalogs.",
+  "audience": [
+    "digital product sellers",
+    "Etsy shop owners",
+    "Gumroad creators",
+    "Shopify store owners",
+    "course creators",
+    "sellers with 5+ products"
+  ],
+  "capabilities": [
+    "Complete audit of current product listings for AI-readiness",
+    "Prioritized action plan based on optimization potential",
+    "Step-by-step rewriting worksheets for titles, descriptions, and FAQs",
+    "Schema markup implementation guide (no coding required)",
+    "Platform-specific action plans with timelines",
+    "Monthly optimization checklists and tracking systems",
+    "A/B testing framework for product descriptions"
+  ],
+  "scope": {
+    "does": [
+      "Provides systematic approach to zero-click optimization",
+      "Includes audit worksheets and AI readiness scoring",
+      "Offers implementation planning tools with timelines",
+      "Contains ongoing tracking and optimization checklists",
+      "Supports Etsy, Gumroad, and Shopify optimization",
+      "Helps prioritize which products to optimize first"
+    ],
+    "does_not": [
+      "Automatically optimize your listings",
+      "Guarantee AI recommendation rates",
+      "Provide one-on-one consulting",
+      "Replace platform-specific SEO tools"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "ZIP file (47.4 KB)",
+    "contents": "3 PDFs: Product Audit (32 pages), Implementation Planner (38 pages), Optimization Tracker (24 pages)",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 47.00,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Audit entire Etsy shop for AI optimization opportunities",
+    "Plan systematic Gumroad product listing improvements",
+    "Implement zero-click optimization across Shopify store",
+    "Track monthly optimization progress and results",
+    "Prioritize which products to optimize first",
+    "Create new product launches optimized from day one"
+  ],
+  "keywords": [
+    "zero-click optimization",
+    "product audit",
+    "implementation planning",
+    "AI optimization",
+    "product catalog",
+    "Etsy optimization",
+    "Gumroad optimization",
+    "Shopify optimization",
+    "digital products",
+    "workbook"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-08"
+}

@@ -1,0 +1,87 @@
+{
+  "product_id": "ai-provenance-kit",
+  "name": "AI Content Provenance Kit (Word, Excel, PowerPoint Templates)",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/ai-provenance-kit",
+  "purchase_url": "https://drewisonline.gumroad.com/l/fjlvd",
+  "price": 37.00,
+  "currency": "USD",
+  "description": "A complete documentation system for tracking, documenting, and verifying AI-generated content for governance and transparency. Includes 6 files (Word, Excel, PowerPoint, Text) with 100+ pages of templates, tracking systems, and compliance tools for responsible AI content management.",
+  "short_description": "Templates and tools for documenting, tracking, and verifying AI-generated content with full transparency and compliance.",
+  "audience": [
+    "content creators using AI tools",
+    "marketing teams",
+    "publishers",
+    "agencies",
+    "enterprises with AI governance requirements",
+    "ChatGPT users",
+    "DALL-E users",
+    "Midjourney users",
+    "Claude users",
+    "Stable Diffusion users"
+  ],
+  "capabilities": [
+    "Document every AI-generated content piece with full transparency",
+    "Track prompts, models, parameters, and verification details",
+    "Maintain compliance with emerging AI transparency regulations",
+    "Build trust through verified provenance",
+    "Create audit trails for legal and quality control",
+    "Generate professional certificates for client deliverables",
+    "Implement cryptographic verification (SHA256 hashes)"
+  ],
+  "scope": {
+    "does": [
+      "Provides comprehensive templates for AI content documentation",
+      "Includes Excel tracking system with automated formulas",
+      "Offers PowerPoint certificate templates for verified content",
+      "Contains 35+ page quickstart guide with best practices",
+      "Supports SHA256 hash generation for content authenticity",
+      "Helps meet EU AI Act and US state AI disclosure requirements"
+    ],
+    "does_not": [
+      "Provide legal advice on AI compliance",
+      "Guarantee regulatory compliance",
+      "Automatically generate hashes or track content",
+      "Replace consultation with compliance attorneys"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "ZIP file (1.18 MB)",
+    "contents": "6 files: Word, Excel (2 versions), PowerPoint, Text, License Agreement, 100+ pages total",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 37.00,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Marketing blog posts generated with GPT-4",
+    "Social media graphics created with DALL-E or Midjourney",
+    "Video scripts written with Claude",
+    "Product descriptions generated with AI assistants",
+    "Email campaigns drafted with AI tools",
+    "Code snippets generated with GitHub Copilot",
+    "Audio content created with AI voice synthesis"
+  ],
+  "keywords": [
+    "AI content",
+    "provenance",
+    "documentation",
+    "AI transparency",
+    "content tracking",
+    "AI governance",
+    "compliance",
+    "AI disclosure",
+    "content verification",
+    "AI ethics"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-08"
+}

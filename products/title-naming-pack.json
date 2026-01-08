@@ -1,0 +1,80 @@
+{
+  "product_id": "title-naming-pack",
+  "name": "Title & Naming Pack (PDF)",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/title-naming-pack",
+  "purchase_url": "https://drewisonline.gumroad.com/l/yxeimq",
+  "price": 17.00,
+  "currency": "USD",
+  "description": "AI-ready product title templates and naming formulas designed to improve both human clarity and AI recommendation eligibility. Includes 50 proven title formulas, platform-specific structures, category templates, examples, and testing checklist in a comprehensive 23-page PDF guide.",
+  "short_description": "50 proven product title formulas optimized for AI assistants and human shoppers across Etsy, Gumroad, and Shopify.",
+  "audience": [
+    "digital product creators",
+    "Etsy sellers",
+    "Gumroad creators",
+    "Shopify sellers",
+    "creators struggling with product naming",
+    "sellers wanting AI discoverability"
+  ],
+  "capabilities": [
+    "Provides 50 proven product title formulas optimized for AI",
+    "Includes platform-specific title structures (Etsy, Gumroad, Shopify)",
+    "Offers category-specific templates (planners, templates, courses, ebooks, graphics)",
+    "Contains before/after title transformation examples",
+    "Includes title testing checklist",
+    "Identifies common title mistakes that block AI recommendations",
+    "Provides character count guidelines by platform"
+  ],
+  "scope": {
+    "does": [
+      "Provides copy-paste title formulas for 10+ product categories",
+      "Includes platform-specific optimization rules",
+      "Offers keyword placement strategies for humans and AI",
+      "Contains real examples from AI-recommended products",
+      "Helps improve conversion rates and AI recommendation rates"
+    ],
+    "does_not": [
+      "Automatically generate titles for your products",
+      "Guarantee AI recommendation rates",
+      "Provide keyword research tools",
+      "Replace platform-specific SEO analysis"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF (21.3 KB)",
+    "contents": "23-page PDF with 50 formulas, examples, and checklists",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 17.00,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Rewrite Etsy product titles for AI discoverability",
+    "Optimize Gumroad product names for ChatGPT recommendations",
+    "Create Shopify product titles that work for humans and AI",
+    "Fix titles that are too vague or keyword-stuffed",
+    "Name new products correctly from the start"
+  ],
+  "keywords": [
+    "product titles",
+    "naming formulas",
+    "AI optimization",
+    "product naming",
+    "title templates",
+    "SEO titles",
+    "Etsy titles",
+    "Gumroad titles",
+    "Shopify titles",
+    "AI discoverability"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-08"
+}

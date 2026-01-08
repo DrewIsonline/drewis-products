@@ -1,0 +1,86 @@
+{
+  "product_id": "copyright-kit",
+  "name": "Copyright Registration Kit for Content Creators",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/copyright-kit",
+  "purchase_url": "https://drewisonline.gumroad.com/l/rwvmrx",
+  "price": 47.00,
+  "currency": "USD",
+  "description": "A comprehensive legal documentation bundle that helps creators file copyright registrations using official forms and step-by-step guides without attorney costs. Includes US, Canada, and EU copyright resources with 13 files (10 PDFs, 2 HTML guides) totaling 60+ pages.",
+  "short_description": "Official forms and step-by-step guides to help creators prepare and submit copyright registration filings for digital work in major regions.",
+  "audience": [
+    "content creators",
+    "YouTubers",
+    "podcasters",
+    "video creators",
+    "photographers",
+    "visual artists",
+    "bloggers",
+    "writers",
+    "authors",
+    "social media influencers",
+    "digital product sellers",
+    "freelance creators"
+  ],
+  "capabilities": [
+    "Provides official US, Canada, and EU copyright forms with instructions",
+    "Includes annotated forms with step-by-step completion guidance",
+    "Offers Fair Use Guide and copyright registration checklists",
+    "Supports creators in filing copyright registrations without legal fees",
+    "Provides access to official copyright office resources and links"
+  ],
+  "scope": {
+    "does": [
+      "Provides official copyright registration forms for US, Canada, and Europe",
+      "Offers step-by-step guidance for completing registration forms",
+      "Includes Fair Use Guide and universal creator checklists",
+      "Helps creators understand copyright basics and their rights",
+      "Saves creators $500+ in legal consultation fees"
+    ],
+    "does_not": [
+      "Provide legal advice or representation",
+      "Guarantee registration approval",
+      "File registrations on behalf of creators",
+      "Replace consultation with a licensed attorney for complex cases"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "ZIP file (3.88 MB)",
+    "contents": "13 files: 10 PDFs, 2 HTML guides, 60+ pages total",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 47.00,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Register YouTube channel's original videos",
+    "Protect photography portfolio before licensing",
+    "Secure copyright for ebooks or courses before launch",
+    "Register blog content for legal protection",
+    "Protect original music, podcasts, or audio content",
+    "Secure rights to digital products (templates, graphics, designs)",
+    "Register social media content that could be stolen"
+  ],
+  "keywords": [
+    "copyright",
+    "registration",
+    "legal protection",
+    "content creators",
+    "copyright forms",
+    "intellectual property",
+    "creator rights",
+    "copyright filing",
+    "legal documentation",
+    "fair use"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-08"
+}
