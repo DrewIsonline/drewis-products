@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Etsy Seller's AI Visibility Playbook",
+  "description": "A comprehensive playbook with templates and checklists to help Etsy sellers get their products discovered by AI assistants and drive more sales from zero-click searches.",
+  "url": "https://drewis.ai/etsy-playbook",
+  "sku": "DIP#09",
+  "productID": "etsy-playbook-DIP09",
+  "sameAs": [
+    "https://drewisonline.gumroad.com/l/ckgehu",
+    "https://raw.githubusercontent.com/DrewIsonline/drewis-products/main/catalog.json"
+  ],
+  "image": "https://public-files.gumroad.com/ci2cbzsue8ewebx6k5t2nv2vqgh4",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "67.00",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock",
+    "url": "https://drewisonline.gumroad.com/l/ckgehu"
+  },
+  "brand": {
+    "@type": "Organization",
+    "name": "DrewIs Intelligence LLC"
+  }
+}

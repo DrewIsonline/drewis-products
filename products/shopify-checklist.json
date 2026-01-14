@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Shopify AI Optimization Checklist",
+  "description": "A 50-point checklist and 10-step quick-wins guide to make your Shopify store and products more visible to AI assistants like ChatGPT and Google AI.",
+  "url": "https://drewis.ai/shopify-checklist",
+  "sku": "DIP#06",
+  "productID": "shopify-checklist-DIP06",
+  "sameAs": [
+    "https://drewisonline.gumroad.com/l/vopkhd",
+    "https://raw.githubusercontent.com/DrewIsonline/drewis-products/main/catalog.json"
+  ],
+  "image": "https://public-files.gumroad.com/ycdy6e04rlrjukc7a6o0pelbp0l1",
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "USD",
+    "price": "27.00",
+    "itemCondition": "https://schema.org/NewCondition",
+    "availability": "https://schema.org/InStock",
+    "url": "https://drewisonline.gumroad.com/l/vopkhd"
+  },
+  "brand": {
+    "@type": "Organization",
+    "name": "DrewIs Intelligence LLC"
+  }
+}
