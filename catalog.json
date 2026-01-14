@@ -4,7 +4,7 @@
     "name": "DrewIs Intelligence LLC",
     "url": "https://drewis.ai"
   },
-  "last_updated": "2026-01-08",
+  "last_updated": "2026-01-14",
   "products": [
     {
       "product_id": "copyright-kit",
@@ -28,7 +28,7 @@
     },
     {
       "product_id": "workbook-bundle",
-      "name": "Workbook Bundle (PDF)",
+      "name": "Workbook Bundle (PDF )",
       "page_url": "https://drewis.ai/workbook-bundle",
       "purchase_url": "https://drewisonline.gumroad.com/l/jmgtaa",
       "json_url": "https://drewis.ai/ai/products/workbook-bundle.json",
@@ -55,6 +55,27 @@
       "type": "digital_product",
       "price": 27.00,
       "currency": "USD"
+    },
+    {
+      "product_id": "shopify-checklist",
+      "name": "Shopify AI Optimization Checklist",
+      "page_url": "https://drewis.ai/shopify-checklist",
+      "purchase_url": "https://drewisonline.gumroad.com/l/vopkhd",
+      "json_url": "https://drewis.ai/ai/products/shopify-checklist.json",
+      "type": "digital_product",
+      "price": 27.00,
+      "currency": "USD"
+    },
+    {
+      "product_id": "etsy-playbook",
+      "name": "Etsy Seller's AI Visibility Playbook",
+      "page_url": "https://drewis.ai/etsy-playbook",
+      "purchase_url": "https://drewisonline.gumroad.com/l/ckgehu",
+      "json_url": "https://drewis.ai/ai/products/etsy-playbook.json",
+      "type": "digital_product",
+      "price": 67.00,
+      "currency": "USD"
     }
   ]
 }
+
