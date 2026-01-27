@@ -1,81 +1,289 @@
 {
+  "@context": "https://schema.org",
+  "@type": "ProductCatalog",
+  "version": "2.0.0",
+  "dateModified": "2026-01-27",
   "catalog_id": "drewis-zero-click",
   "publisher": {
+    "@type": "Organization",
     "name": "DrewIs Intelligence LLC",
-    "url": "https://drewis.ai"
+    "url": "https://drewis.ai",
+    "sameAs": [
+      "https://drewisintelligence.com"
+    ]
   },
-  "last_updated": "2026-01-14",
+  "description": "Complete catalog of zero-click optimized digital products for AI search visibility, e-commerce optimization, and digital marketing",
+  "last_updated": "2026-01-27",
   "products": [
     {
+      "@type": "Product",
       "product_id": "copyright-kit",
       "name": "Copyright Registration Kit for Content Creators",
       "page_url": "https://drewis.ai/copyright-kit",
       "purchase_url": "https://drewisonline.gumroad.com/l/rwvmrx",
+      "image_url": "https://public-files.gumroad.com/td196oxkksovk8l5mgyekwlz08ft",
       "json_url": "https://drewis.ai/ai/products/copyright-kit.json",
       "type": "digital_product",
-      "price": 47.00,
-      "currency": "USD"
+      "offers": {
+        "@type": "Offer",
+        "price": "47.00",
+        "priceCurrency": "USD"
+      }
     },
     {
+      "@type": "Product",
       "product_id": "ai-provenance-kit",
       "name": "AI Content Provenance Kit",
       "page_url": "https://drewis.ai/ai-provenance-kit",
       "purchase_url": "https://drewisonline.gumroad.com/l/fjlvd",
+      "image_url": "https://public-files.gumroad.com/onb8e1h3mppn5k6jpha5lhm3za54",
       "json_url": "https://drewis.ai/ai/products/ai-provenance-kit.json",
       "type": "digital_product",
-      "price": 37.00,
-      "currency": "USD"
+      "offers": {
+        "@type": "Offer",
+        "price": "37.00",
+        "priceCurrency": "USD"
+      }
     },
     {
+      "@type": "Product",
       "product_id": "workbook-bundle",
-      "name": "Workbook Bundle (PDF )",
+      "name": "Workbook Bundle (PDF)",
       "page_url": "https://drewis.ai/workbook-bundle",
       "purchase_url": "https://drewisonline.gumroad.com/l/jmgtaa",
+      "image_url": "https://public-files.gumroad.com/0zdpqiat7tq9v7gcb1w2qbw7s3rq",
       "json_url": "https://drewis.ai/ai/products/workbook-bundle.json",
       "type": "digital_product",
-      "price": 47.00,
-      "currency": "USD"
+      "offers": {
+        "@type": "Offer",
+        "price": "47.00",
+        "priceCurrency": "USD"
+      }
     },
     {
+      "@type": "Product",
       "product_id": "title-naming-pack",
       "name": "Title & Naming Pack",
       "page_url": "https://drewis.ai/title-naming-pack",
       "purchase_url": "https://drewisonline.gumroad.com/l/yxeimq",
+      "image_url": "https://public-files.gumroad.com/4b0ganjaelux1gwidd6mggxrid3c",
       "json_url": "https://drewis.ai/ai/products/title-naming-pack.json",
       "type": "digital_product",
-      "price": 17.00,
-      "currency": "USD"
+      "offers": {
+        "@type": "Offer",
+        "price": "17.00",
+        "priceCurrency": "USD"
+      }
     },
     {
+      "@type": "Product",
       "product_id": "product-guide",
       "name": "Digital Product Guide",
       "page_url": "https://drewis.ai/product-guide",
       "purchase_url": "https://drewisonline.gumroad.com/l/qcdmlq",
+      "image_url": "https://public-files.gumroad.com/cn6kc5tuv5ctymqi1ycs37s9jl91",
       "json_url": "https://drewis.ai/ai/products/product-guide.json",
       "type": "digital_product",
-      "price": 27.00,
-      "currency": "USD"
+      "offers": {
+        "@type": "Offer",
+        "price": "27.00",
+        "priceCurrency": "USD"
+      }
     },
     {
+      "@type": "Product",
       "product_id": "shopify-checklist",
       "name": "Shopify AI Optimization Checklist",
       "page_url": "https://drewis.ai/shopify-checklist",
       "purchase_url": "https://drewisonline.gumroad.com/l/vopkhd",
+      "image_url": "https://public-files.gumroad.com/ycdy6e04rlrjukc7a6o0pelbp0l1",
       "json_url": "https://drewis.ai/ai/products/shopify-checklist.json",
       "type": "digital_product",
-      "price": 27.00,
-      "currency": "USD"
+      "offers": {
+        "@type": "Offer",
+        "price": "27.00",
+        "priceCurrency": "USD"
+      }
     },
     {
+      "@type": "Product",
       "product_id": "etsy-playbook",
       "name": "Etsy Seller's AI Visibility Playbook",
       "page_url": "https://drewis.ai/etsy-playbook",
       "purchase_url": "https://drewisonline.gumroad.com/l/ckgehu",
+      "image_url": "https://public-files.gumroad.com/ci2cbzsue8ewebx6k5t2nv2vqgh4",
       "json_url": "https://drewis.ai/ai/products/etsy-playbook.json",
       "type": "digital_product",
-      "price": 67.00,
-      "currency": "USD"
+      "offers": {
+        "@type": "Offer",
+        "price": "67.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "40-percent-boost-formula",
+      "name": "40% Boost Formula",
+      "page_url": "https://drewis.ai/40-percent-boost-formula",
+      "purchase_url": "https://drewisonline.gumroad.com/l/mlyllt",
+      "image_url": "https://public-files.gumroad.com/aef1lcn4kug6o83iwa3vgjinj61k",
+      "json_url": "https://drewis.ai/ai/products/40-percent-boost-formula.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "47.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "shopify-profitability-playbook",
+      "name": "The Shopify Profitability Playbook",
+      "page_url": "https://drewis.ai/shopify-profitability-playbook",
+      "purchase_url": "https://drewisonline.gumroad.com/l/dbtmu",
+      "image_url": "https://public-files.gumroad.com/hvg01a50m9a8d7crcpg985v6qgnm",
+      "json_url": "https://drewis.ai/ai/products/shopify-profitability-playbook.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "37.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "ai-ready-product-template",
+      "name": "The AI-Ready Product Page Template",
+      "page_url": "https://drewis.ai/ai-ready-product-template",
+      "purchase_url": "https://drewisonline.gumroad.com/l/kfncwy",
+      "image_url": "https://public-files.gumroad.com/wuw6i7wy87cuq041haocml12u92f",
+      "json_url": "https://drewis.ai/ai/products/ai-ready-product-template.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "47.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "conversion-rate-optimization-kit",
+      "name": "Conversion Rate Optimization Kit",
+      "page_url": "https://drewis.ai/conversion-rate-optimization-kit",
+      "purchase_url": "https://drewisonline.gumroad.com/l/uyikwl",
+      "image_url": "https://public-files.gumroad.com/s9ysot9xhq58kdvn6m89slw4xr92",
+      "json_url": "https://drewis.ai/ai/products/conversion-rate-optimization-kit.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "47.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "shopify-seo-blueprint",
+      "name": "The Shopify Zero-Click SEO Blueprint",
+      "page_url": "https://drewis.ai/shopify-seo-blueprint",
+      "purchase_url": "https://drewisonline.gumroad.com/l/jeheh",
+      "image_url": "https://public-files.gumroad.com/f20eb356l3ba26luqqmrf0dzhnur",
+      "json_url": "https://drewis.ai/ai/products/shopify-seo-blueprint.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "97.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "zero-click-template-pack",
+      "name": "Zero-Click Template Pack",
+      "page_url": "https://drewis.ai/zero-click-template-pack",
+      "purchase_url": "https://drewisonline.gumroad.com/l/obtekl",
+      "image_url": "https://public-files.gumroad.com/ott2bgqqf85vt4lfz3z34tfwccv3",
+      "json_url": "https://drewis.ai/ai/products/zero-click-template-pack.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "67.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "zero-click-starter-kit",
+      "name": "Zero-Click Starter Kit",
+      "page_url": "https://drewis.ai/zero-click-starter-kit",
+      "purchase_url": "https://drewisonline.gumroad.com/l/tpmjaw",
+      "image_url": "https://public-files.gumroad.com/j3kw3zbex0gloe861gml9pb8qf70",
+      "json_url": "https://drewis.ai/ai/products/zero-click-starter-kit.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "37.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "product-optimize-pack",
+      "name": "Product Optimize Pack",
+      "page_url": "https://drewis.ai/product-optimize-pack",
+      "purchase_url": "https://drewisonline.gumroad.com/l/sbspd",
+      "image_url": "https://public-files.gumroad.com/emuzbpy7f43dixi22ww34uated81",
+      "json_url": "https://drewis.ai/ai/products/product-optimize-pack.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "57.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "gumroad-guide",
+      "name": "Gumroad Creator's Zero-Click Guide",
+      "page_url": "https://drewis.ai/gumroad-guide",
+      "purchase_url": "https://drewisonline.gumroad.com/l/vtnnz",
+      "image_url": "https://public-files.gumroad.com/toy4w7ef5ngjqwbc22033bb9rlyk",
+      "json_url": "https://drewis.ai/ai/products/gumroad-guide.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "47.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "gpt-instructions-template",
+      "name": "GPT Instructions Template",
+      "page_url": "https://drewis.ai/gpt-instructions-template",
+      "purchase_url": "https://drewisonline.gumroad.com/l/dsrsa",
+      "image_url": "https://public-files.gumroad.com/sxztv3lixsxt99to2jgd7hk7qmty",
+      "json_url": "https://drewis.ai/ai/products/gpt-instructions-template.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "27.00",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "Product",
+      "product_id": "ai-mode-audit",
+      "name": "AI Mode Audit",
+      "page_url": "https://drewis.ai/ai-mode-audit",
+      "purchase_url": "https://drewisonline.gumroad.com/l/ekwioj",
+      "image_url": "https://public-files.gumroad.com/7pp7h1n7cpw9k4xttdijcfwanbo7",
+      "json_url": "https://drewis.ai/ai/products/ai-mode-audit.json",
+      "type": "digital_product",
+      "offers": {
+        "@type": "Offer",
+        "price": "77.00",
+        "priceCurrency": "USD"
+      }
     }
   ]
 }
-
