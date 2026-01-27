@@ -1,0 +1,71 @@
+{
+  "product_id": "zero-click-starter-kit",
+  "name": "Zero-Click Starter Kit",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/zero-click-starter-kit",
+  "purchase_url": "https://drewisonline.gumroad.com/l/tpmjaw",
+  "image_url": "https://public-files.gumroad.com/j3kw3zbex0gloe861gml9pb8qf70",
+  "price": 37.0,
+  "currency": "USD",
+  "description": "Beginner-friendly introduction to zero-click optimization with 6 essential files. Includes guides on what zero-click is, how to hire developers, and beginner worksheets for product and website optimization. Perfect entry point for those new to AI search optimization.",
+  "short_description": "Beginner's guide to zero-click optimization with essential worksheets and implementation guides.",
+  "audience": [
+    "beginners to zero-click",
+    "small business owners",
+    "content creators",
+    "marketers new to AI optimization"
+  ],
+  "capabilities": [
+    "Understand zero-click optimization fundamentals",
+    "Learn how to hire developers for implementation",
+    "Optimize products for AI search visibility",
+    "Create beginner-friendly optimization checklists"
+  ],
+  "scope": {
+    "does": [
+      "Provides 6 beginner-friendly files",
+      "Explains zero-click concepts clearly",
+      "Includes practical worksheets",
+      "Offers hiring guidance for developers",
+      "Supports first-time implementers"
+    ],
+    "does_not": [
+      "Include advanced technical templates",
+      "Provide custom development",
+      "Offer one-on-one consultation",
+      "Guarantee immediate results"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "ZIP file",
+    "contents": "6 files: START_HERE.pdf, 2 guides, 2 worksheets, license agreement",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 37.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Learning zero-click optimization basics",
+    "Starting first AI search optimization project",
+    "Hiring developers for implementation",
+    "Creating beginner optimization checklists"
+  ],
+  "keywords": [
+    "zero-click",
+    "beginner",
+    "starter kit",
+    "AI optimization",
+    "product optimization",
+    "website optimization"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}

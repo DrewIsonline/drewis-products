@@ -1,0 +1,71 @@
+{
+  "product_id": "shopify-seo-blueprint",
+  "name": "The Shopify Zero-Click SEO Blueprint",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/shopify-seo-blueprint",
+  "purchase_url": "https://drewisonline.gumroad.com/l/jeheh",
+  "image_url": "https://public-files.gumroad.com/f20eb356l3ba26luqqmrf0dzhnur",
+  "price": 97.0,
+  "currency": "USD",
+  "description": "Comprehensive blueprint for Shopify zero-click SEO optimization featuring the proprietary 3-Pillar System. Advanced information architecture approach, AI-native content strategy, and practical implementation instructions for dominating AI search results.",
+  "short_description": "Flagship blueprint for Shopify zero-click SEO with proprietary 3-Pillar System.",
+  "audience": [
+    "Shopify store owners",
+    "e-commerce businesses",
+    "SEO professionals",
+    "digital agencies",
+    "ambitious entrepreneurs"
+  ],
+  "capabilities": [
+    "Optimize the shopify zero-click seo blueprint for AI search",
+    "Implement proven optimization strategies",
+    "Deploy strategic improvements",
+    "Measure results effectively"
+  ],
+  "scope": {
+    "does": [
+      "Provides complete the shopify zero-click seo blueprint guide",
+      "Includes proven strategies",
+      "Contains practical implementation steps",
+      "Offers measurement frameworks"
+    ],
+    "does_not": [
+      "Provide automated implementation",
+      "Include ongoing support",
+      "Guarantee specific results",
+      "Offer custom consulting"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF guide",
+    "contents": "Complete The Shopify Zero-Click SEO Blueprint guide",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 97.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Implementing the shopify zero-click seo blueprint strategies",
+    "Optimizing for AI search",
+    "Improving visibility and conversion",
+    "Measuring optimization results"
+  ],
+  "keywords": [
+    "Shopify",
+    "zero-click SEO",
+    "3-Pillar System",
+    "AI search",
+    "blueprint",
+    "e-commerce SEO"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}

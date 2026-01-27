@@ -1,0 +1,71 @@
+{
+  "product_id": "gpt-instructions-template",
+  "name": "GPT Instructions Template",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/gpt-instructions-template",
+  "purchase_url": "https://drewisonline.gumroad.com/l/dsrsa",
+  "image_url": "https://public-files.gumroad.com/sxztv3lixsxt99to2jgd7hk7qmty",
+  "price": 27.0,
+  "currency": "USD",
+  "description": "Professional 4-page PDF template for creating effective Custom GPT instructions. Includes placeholder replacement guide, complete template structure, customization checklist, and real-world examples for building product catalog GPTs.",
+  "short_description": "Ready-to-use template for creating Custom GPT instructions for product catalogs.",
+  "audience": [
+    "GPT builders",
+    "AI developers",
+    "product catalog owners",
+    "e-commerce businesses",
+    "digital product creators"
+  ],
+  "capabilities": [
+    "Optimize gpt instructions template for AI search",
+    "Implement proven optimization strategies",
+    "Deploy strategic improvements",
+    "Measure results effectively"
+  ],
+  "scope": {
+    "does": [
+      "Provides complete gpt instructions template guide",
+      "Includes proven strategies",
+      "Contains practical implementation steps",
+      "Offers measurement frameworks"
+    ],
+    "does_not": [
+      "Provide automated implementation",
+      "Include ongoing support",
+      "Guarantee specific results",
+      "Offer custom consulting"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF guide",
+    "contents": "Complete GPT Instructions Template guide",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 27.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Implementing gpt instructions template strategies",
+    "Optimizing for AI search",
+    "Improving visibility and conversion",
+    "Measuring optimization results"
+  ],
+  "keywords": [
+    "Custom GPT",
+    "GPT instructions",
+    "ChatGPT",
+    "AI assistant",
+    "product catalog",
+    "template"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}

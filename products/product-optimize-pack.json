@@ -1,0 +1,71 @@
+{
+  "product_id": "product-optimize-pack",
+  "name": "Product Optimize Pack",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/product-optimize-pack",
+  "purchase_url": "https://drewisonline.gumroad.com/l/sbspd",
+  "image_url": "https://public-files.gumroad.com/emuzbpy7f43dixi22ww34uated81",
+  "price": 57.0,
+  "currency": "USD",
+  "description": "Complete product optimization toolkit with 9 files focused specifically on making products AI-discoverable. Includes complete setup guide, quick start checklist, add new product guide, AI prompt template, and JSON/HTML templates for product cards and catalogs.",
+  "short_description": "9-file toolkit for optimizing products for AI search and zero-click discovery.",
+  "audience": [
+    "product managers",
+    "e-commerce merchants",
+    "digital product creators",
+    "Shopify store owners",
+    "Gumroad creators"
+  ],
+  "capabilities": [
+    "Optimize product optimize pack for AI search",
+    "Implement proven optimization strategies",
+    "Deploy strategic improvements",
+    "Measure results effectively"
+  ],
+  "scope": {
+    "does": [
+      "Provides complete product optimize pack guide",
+      "Includes proven strategies",
+      "Contains practical implementation steps",
+      "Offers measurement frameworks"
+    ],
+    "does_not": [
+      "Provide automated implementation",
+      "Include ongoing support",
+      "Guarantee specific results",
+      "Offer custom consulting"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF guide",
+    "contents": "Complete Product Optimize Pack guide",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 57.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Implementing product optimize pack strategies",
+    "Optimizing for AI search",
+    "Improving visibility and conversion",
+    "Measuring optimization results"
+  ],
+  "keywords": [
+    "product optimization",
+    "AI search",
+    "zero-click",
+    "product catalog",
+    "Schema.org",
+    "e-commerce"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}

@@ -1,0 +1,71 @@
+{
+  "product_id": "ai-ready-product-template",
+  "name": "The AI-Ready Product Page Template",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/ai-ready-product-template",
+  "purchase_url": "https://drewisonline.gumroad.com/l/kfncwy",
+  "image_url": "https://public-files.gumroad.com/wuw6i7wy87cuq041haocml12u92f",
+  "price": 47.0,
+  "currency": "USD",
+  "description": "Complete HTML/CSS template for creating AI-optimized product pages with built-in Schema.org markup. Includes responsive design, SEO optimization, and AI agent compatibility for maximum product visibility and conversion.",
+  "short_description": "Ready-to-deploy product page template optimized for AI search and conversion.",
+  "audience": [
+    "web developers",
+    "e-commerce businesses",
+    "product managers",
+    "Shopify developers",
+    "digital agencies"
+  ],
+  "capabilities": [
+    "Optimize the ai-ready product page template for AI search",
+    "Implement proven optimization strategies",
+    "Deploy strategic improvements",
+    "Measure results effectively"
+  ],
+  "scope": {
+    "does": [
+      "Provides complete the ai-ready product page template guide",
+      "Includes proven strategies",
+      "Contains practical implementation steps",
+      "Offers measurement frameworks"
+    ],
+    "does_not": [
+      "Provide automated implementation",
+      "Include ongoing support",
+      "Guarantee specific results",
+      "Offer custom consulting"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF guide",
+    "contents": "Complete The AI-Ready Product Page Template guide",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 47.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Implementing the ai-ready product page template strategies",
+    "Optimizing for AI search",
+    "Improving visibility and conversion",
+    "Measuring optimization results"
+  ],
+  "keywords": [
+    "product page",
+    "template",
+    "AI-ready",
+    "Schema.org",
+    "responsive design",
+    "conversion optimization"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}

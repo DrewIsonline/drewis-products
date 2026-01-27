@@ -1,0 +1,71 @@
+{
+  "product_id": "shopify-profitability-playbook",
+  "name": "The Shopify Profitability Playbook",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/shopify-profitability-playbook",
+  "purchase_url": "https://drewisonline.gumroad.com/l/dbtmu",
+  "image_url": "https://public-files.gumroad.com/hvg01a50m9a8d7crcpg985v6qgnm",
+  "price": 37.0,
+  "currency": "USD",
+  "description": "Strategic playbook for maximizing Shopify store profitability through AI search optimization. Covers revenue optimization, cost reduction, AI-driven traffic acquisition, and conversion rate improvements specific to Shopify stores.",
+  "short_description": "Complete profitability strategy for Shopify stores using AI optimization.",
+  "audience": [
+    "Shopify store owners",
+    "e-commerce entrepreneurs",
+    "online retailers",
+    "dropshippers",
+    "Shopify developers"
+  ],
+  "capabilities": [
+    "Optimize the shopify profitability playbook for AI search",
+    "Implement proven optimization strategies",
+    "Deploy strategic improvements",
+    "Measure results effectively"
+  ],
+  "scope": {
+    "does": [
+      "Provides complete the shopify profitability playbook guide",
+      "Includes proven strategies",
+      "Contains practical implementation steps",
+      "Offers measurement frameworks"
+    ],
+    "does_not": [
+      "Provide automated implementation",
+      "Include ongoing support",
+      "Guarantee specific results",
+      "Offer custom consulting"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF guide",
+    "contents": "Complete The Shopify Profitability Playbook guide",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 37.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Implementing the shopify profitability playbook strategies",
+    "Optimizing for AI search",
+    "Improving visibility and conversion",
+    "Measuring optimization results"
+  ],
+  "keywords": [
+    "Shopify",
+    "profitability",
+    "revenue optimization",
+    "AI traffic",
+    "conversion rate",
+    "e-commerce"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}

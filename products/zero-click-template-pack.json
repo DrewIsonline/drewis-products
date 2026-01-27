@@ -1,0 +1,74 @@
+{
+  "product_id": "zero-click-template-pack",
+  "name": "Zero-Click Template Pack",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/zero-click-template-pack",
+  "purchase_url": "https://drewisonline.gumroad.com/l/obtekl",
+  "image_url": "https://public-files.gumroad.com/ott2bgqqf85vt4lfz3z34tfwccv3",
+  "price": 67.0,
+  "currency": "USD",
+  "description": "A comprehensive collection of 15 templates, guides, checklists, and worksheets to build and manage a complete zero-click optimization system. Includes 4 advanced templates (HTML, JSON, Catalog, Agent Routing), 6 in-depth guides, 2 optimization checklists, and 2 technical worksheets for developers and agencies.",
+  "short_description": "15-file implementation toolkit for building complete zero-click optimization systems.",
+  "audience": [
+    "web developers",
+    "technical marketers",
+    "agencies",
+    "consultants",
+    "businesses with in-house development teams"
+  ],
+  "capabilities": [
+    "Build a full zero-click product discovery system",
+    "Implement AI-discoverable product catalogs",
+    "Create agent routing maps for multi-agent systems",
+    "Deploy Schema.org markup for maximum AI visibility",
+    "Test and validate AI search optimization"
+  ],
+  "scope": {
+    "does": [
+      "Provides 15 comprehensive implementation files",
+      "Includes HTML, JSON, and catalog templates",
+      "Contains step-by-step setup and testing guides",
+      "Offers optimization checklists and worksheets",
+      "Supports advanced technical implementations"
+    ],
+    "does_not": [
+      "Provide custom development services",
+      "Include hosting or deployment",
+      "Offer ongoing technical support",
+      "Guarantee specific search rankings"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "ZIP file",
+    "contents": "15 files: 6 guides, 4 templates, 2 checklists, 2 worksheets, 1 START_HERE.pdf",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 67.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Building AI-discoverable product catalogs",
+    "Implementing zero-click optimization for e-commerce",
+    "Creating multi-agent product discovery systems",
+    "Deploying Schema.org markup at scale"
+  ],
+  "keywords": [
+    "zero-click",
+    "templates",
+    "AI optimization",
+    "product catalog",
+    "Schema.org",
+    "agent routing",
+    "implementation toolkit"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}

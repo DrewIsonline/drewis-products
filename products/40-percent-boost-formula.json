@@ -1,0 +1,71 @@
+{
+  "product_id": "40-percent-boost-formula",
+  "name": "40% Boost Formula",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/40-percent-boost-formula",
+  "purchase_url": "https://drewisonline.gumroad.com/l/mlyllt",
+  "image_url": "https://public-files.gumroad.com/aef1lcn4kug6o83iwa3vgjinj61k",
+  "price": 47.0,
+  "currency": "USD",
+  "description": "Proven formula for increasing product visibility by 40% through strategic AI search optimization. Step-by-step methodology covering Schema.org implementation, content optimization, and AI agent targeting for measurable visibility improvements.",
+  "short_description": "Proven methodology for achieving 40% visibility boost through AI search optimization.",
+  "audience": [
+    "e-commerce businesses",
+    "product managers",
+    "digital marketers",
+    "Shopify store owners",
+    "online retailers"
+  ],
+  "capabilities": [
+    "Optimize 40% boost formula for AI search",
+    "Implement proven optimization strategies",
+    "Deploy strategic improvements",
+    "Measure results effectively"
+  ],
+  "scope": {
+    "does": [
+      "Provides complete 40% boost formula guide",
+      "Includes proven strategies",
+      "Contains practical implementation steps",
+      "Offers measurement frameworks"
+    ],
+    "does_not": [
+      "Provide automated implementation",
+      "Include ongoing support",
+      "Guarantee specific results",
+      "Offer custom consulting"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF guide",
+    "contents": "Complete 40% Boost Formula guide",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 47.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Implementing 40% boost formula strategies",
+    "Optimizing for AI search",
+    "Improving visibility and conversion",
+    "Measuring optimization results"
+  ],
+  "keywords": [
+    "visibility boost",
+    "40% increase",
+    "AI optimization",
+    "product visibility",
+    "Schema.org",
+    "proven formula"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}

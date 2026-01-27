@@ -1,0 +1,71 @@
+{
+  "product_id": "ai-mode-audit",
+  "name": "AI Mode Audit",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/ai-mode-audit",
+  "purchase_url": "https://drewisonline.gumroad.com/l/ekwioj",
+  "image_url": "https://public-files.gumroad.com/7pp7h1n7cpw9k4xttdijcfwanbo7",
+  "price": 77.0,
+  "currency": "USD",
+  "description": "Comprehensive AI readiness audit system with scorecard, action plan, and Excel scoring tool. Assess your website, products, and content for AI search optimization, identify gaps, and create actionable improvement plans with measurable outcomes.",
+  "short_description": "Complete audit system for assessing and improving AI search readiness.",
+  "audience": [
+    "business owners",
+    "marketing directors",
+    "SEO professionals",
+    "e-commerce managers",
+    "digital agencies"
+  ],
+  "capabilities": [
+    "Optimize ai mode audit for AI search",
+    "Implement proven optimization strategies",
+    "Deploy strategic improvements",
+    "Measure results effectively"
+  ],
+  "scope": {
+    "does": [
+      "Provides complete ai mode audit guide",
+      "Includes proven strategies",
+      "Contains practical implementation steps",
+      "Offers measurement frameworks"
+    ],
+    "does_not": [
+      "Provide automated implementation",
+      "Include ongoing support",
+      "Guarantee specific results",
+      "Offer custom consulting"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF guide",
+    "contents": "Complete AI Mode Audit guide",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 77.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Implementing ai mode audit strategies",
+    "Optimizing for AI search",
+    "Improving visibility and conversion",
+    "Measuring optimization results"
+  ],
+  "keywords": [
+    "AI audit",
+    "readiness assessment",
+    "AI optimization",
+    "scorecard",
+    "action plan",
+    "AI search"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}

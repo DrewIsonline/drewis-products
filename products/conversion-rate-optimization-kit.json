@@ -1,0 +1,71 @@
+{
+  "product_id": "conversion-rate-optimization-kit",
+  "name": "Conversion Rate Optimization Kit",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/conversion-rate-optimization-kit",
+  "purchase_url": "https://drewisonline.gumroad.com/l/uyikwl",
+  "image_url": "https://public-files.gumroad.com/s9ysot9xhq58kdvn6m89slw4xr92",
+  "price": 47.0,
+  "currency": "USD",
+  "description": "Complete toolkit for optimizing conversion rates through AI-powered insights and proven strategies. Includes testing frameworks, optimization checklists, A/B testing guides, and AI-driven personalization techniques for maximum conversion improvements.",
+  "short_description": "Comprehensive toolkit for improving conversion rates using AI optimization strategies.",
+  "audience": [
+    "e-commerce businesses",
+    "marketing managers",
+    "CRO specialists",
+    "product managers",
+    "digital agencies"
+  ],
+  "capabilities": [
+    "Optimize conversion rate optimization kit for AI search",
+    "Implement proven optimization strategies",
+    "Deploy strategic improvements",
+    "Measure results effectively"
+  ],
+  "scope": {
+    "does": [
+      "Provides complete conversion rate optimization kit guide",
+      "Includes proven strategies",
+      "Contains practical implementation steps",
+      "Offers measurement frameworks"
+    ],
+    "does_not": [
+      "Provide automated implementation",
+      "Include ongoing support",
+      "Guarantee specific results",
+      "Offer custom consulting"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF guide",
+    "contents": "Complete Conversion Rate Optimization Kit guide",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 47.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Implementing conversion rate optimization kit strategies",
+    "Optimizing for AI search",
+    "Improving visibility and conversion",
+    "Measuring optimization results"
+  ],
+  "keywords": [
+    "conversion rate",
+    "CRO",
+    "A/B testing",
+    "optimization",
+    "personalization",
+    "user experience"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}

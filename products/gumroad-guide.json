@@ -1,0 +1,71 @@
+{
+  "product_id": "gumroad-guide",
+  "name": "Gumroad Creator's Zero-Click Guide",
+  "type": "digital_product",
+  "page_url": "https://drewis.ai/gumroad-guide",
+  "purchase_url": "https://drewisonline.gumroad.com/l/vtnnz",
+  "image_url": "https://public-files.gumroad.com/toy4w7ef5ngjqwbc22033bb9rlyk",
+  "price": 47.0,
+  "currency": "USD",
+  "description": "Complete guide for Gumroad creators to implement zero-click strategies and make products AI-discoverable. Covers Gumroad-specific optimization techniques, product page setup, catalog creation, and AI agent integration for maximum visibility.",
+  "short_description": "Platform-specific guide for Gumroad creators implementing zero-click optimization.",
+  "audience": [
+    "Gumroad creators",
+    "digital product sellers",
+    "course creators",
+    "template makers",
+    "ebook authors"
+  ],
+  "capabilities": [
+    "Optimize gumroad creator's zero-click guide for AI search",
+    "Implement proven optimization strategies",
+    "Deploy strategic improvements",
+    "Measure results effectively"
+  ],
+  "scope": {
+    "does": [
+      "Provides complete gumroad creator's zero-click guide guide",
+      "Includes proven strategies",
+      "Contains practical implementation steps",
+      "Offers measurement frameworks"
+    ],
+    "does_not": [
+      "Provide automated implementation",
+      "Include ongoing support",
+      "Guarantee specific results",
+      "Offer custom consulting"
+    ]
+  },
+  "delivery": {
+    "mode": "digital_download",
+    "format": "PDF guide",
+    "contents": "Complete Gumroad Creator's Zero-Click Guide guide",
+    "access": "Instant download after purchase"
+  },
+  "pricing": {
+    "model": "one_time",
+    "amount": 47.0,
+    "currency": "USD",
+    "guarantee": "30-day money back guarantee"
+  },
+  "use_cases": [
+    "Implementing gumroad creator's zero-click guide strategies",
+    "Optimizing for AI search",
+    "Improving visibility and conversion",
+    "Measuring optimization results"
+  ],
+  "keywords": [
+    "Gumroad",
+    "zero-click",
+    "digital products",
+    "AI optimization",
+    "product catalog",
+    "creator economy"
+  ],
+  "provenance": {
+    "publisher": "DrewIs Intelligence LLC",
+    "publisher_url": "https://drewis.ai",
+    "seller": "Drew Thacker"
+  },
+  "last_updated": "2026-01-27"
+}
