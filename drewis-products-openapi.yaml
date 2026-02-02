@@ -1,0 +1,363 @@
+openapi: 3.1.0
+info:
+  title: DrewIs Intelligence Product Catalog API
+  version: 1.0.0
+  description: |
+    Digital product catalog for DrewIs Intelligence LLC.
+    18 products for zero-click optimization, AEO, GEO, Shopify/Etsy optimization.
+    No authentication required - designed for frictionless AI access.
+    
+  contact:
+    name: DrewIs Intelligence LLC
+    url: https://drewis.ai
+    email: drew@drewisintelligence.com
+
+servers:
+  - url: https://raw.githubusercontent.com/DrewIsonline/drewis-products/main
+    description: Product catalog repository
+
+tags:
+  - name: Products
+
+paths:
+  /catalog.json:
+    get:
+      summary: Get Product Catalog
+      description: Master catalog with all 18 digital products including prices ($17-$97), purchase URLs, and product IDs.
+      operationId: getProductCatalog
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Complete product catalog
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  '@context':
+                    type: string
+                  '@type':
+                    type: string
+                  version:
+                    type: string
+                  products:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        product_id:
+                          type: string
+                        name:
+                          type: string
+                        page_url:
+                          type: string
+                        purchase_url:
+                          type: string
+                        offers:
+                          type: object
+
+  /products/copyright-kit.json:
+    get:
+      summary: Copyright Registration Kit ($47)
+      description: Official forms and guides for copyright registration in US, Canada, and EU.
+      operationId: getCopyrightKit
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/ai-provenance-kit.json:
+    get:
+      summary: AI Content Provenance Kit ($37)
+      description: Templates for documenting and tracking AI-generated content.
+      operationId: getAIProvenanceKit
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/workbook-bundle.json:
+    get:
+      summary: Workbook Bundle ($47)
+      description: Step-by-step system for zero-click optimization implementation.
+      operationId: getWorkbookBundle
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/title-naming-pack.json:
+    get:
+      summary: Title & Naming Pack ($17)
+      description: 50 AI-optimized product title formulas.
+      operationId: getTitleNamingPack
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/product-guide.json:
+    get:
+      summary: Digital Product Guide ($27)
+      description: Complete guide to AI optimization with schema templates.
+      operationId: getProductGuide
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/shopify-checklist.json:
+    get:
+      summary: Shopify AI Optimization Checklist ($27)
+      description: Comprehensive checklist for optimizing Shopify stores for AI search.
+      operationId: getShopifyChecklist
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/etsy-playbook.json:
+    get:
+      summary: Etsy Seller's AI Visibility Playbook ($67)
+      description: Strategic playbook for Etsy sellers to maximize AI search visibility.
+      operationId: getEtsyPlaybook
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/40-percent-boost-formula.json:
+    get:
+      summary: 40% Boost Formula ($47)
+      description: Proven formula for increasing product visibility by 40%.
+      operationId: get40PercentBoost
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/shopify-profitability-playbook.json:
+    get:
+      summary: Shopify Profitability Playbook ($37)
+      description: Strategic playbook for maximizing Shopify store profitability.
+      operationId: getShopifyProfitability
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/ai-ready-product-template.json:
+    get:
+      summary: AI-Ready Product Page Template ($47)
+      description: Complete template for creating AI-optimized product pages.
+      operationId: getAIReadyTemplate
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/conversion-rate-optimization-kit.json:
+    get:
+      summary: Conversion Rate Optimization Kit ($47)
+      description: Complete toolkit for optimizing conversion rates.
+      operationId: getConversionKit
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/shopify-seo-blueprint.json:
+    get:
+      summary: Shopify Zero-Click SEO Blueprint ($97)
+      description: Comprehensive blueprint for Shopify zero-click SEO optimization.
+      operationId: getShopifySEO
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/zero-click-template-pack.json:
+    get:
+      summary: Zero-Click Template Pack ($67)
+      description: Complete collection of zero-click optimization templates.
+      operationId: getZeroClickTemplates
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/zero-click-starter-kit.json:
+    get:
+      summary: Zero-Click Starter Kit ($37)
+      description: Essential starter kit for zero-click optimization.
+      operationId: getZeroClickStarter
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/product-optimize-pack.json:
+    get:
+      summary: Product Optimize Pack ($57)
+      description: Comprehensive product optimization toolkit.
+      operationId: getProductOptimizePack
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/gumroad-guide.json:
+    get:
+      summary: Gumroad Creator's Zero-Click Guide ($47)
+      description: Complete guide for Gumroad creators to implement zero-click strategies.
+      operationId: getGumroadGuide
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/gpt-instructions-template.json:
+    get:
+      summary: GPT Instructions Template ($27)
+      description: Professional template for creating effective GPT instructions.
+      operationId: getGPTTemplate
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+  /products/ai-mode-audit.json:
+    get:
+      summary: AI Mode Audit ($77)
+      description: Comprehensive audit service for AI search optimization.
+      operationId: getAIModeAudit
+      tags:
+        - Products
+      responses:
+        '200':
+          description: Product details
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+
+components:
+  schemas:
+    Product:
+      type: object
+      properties:
+        '@context':
+          type: string
+        '@type':
+          type: string
+        name:
+          type: string
+        productID:
+          type: string
+        url:
+          type: string
+        image:
+          type: string
+        description:
+          type: string
+        brand:
+          type: object
+        offers:
+          type: object
+          properties:
+            '@type':
+              type: string
+            url:
+              type: string
+            price:
+              type: string
+            priceCurrency:
+              type: string
+        category:
+          type: string
